@@ -85,7 +85,7 @@ technical documentation, and human-validated engineering work.
 
 ---
 
-## Current Flight Plan
+## ✈️ Current Flight Plan
 
 1. Finish publishing AWS Lab 01
 2. Build the Databricks GLEIF Bronze-to-Silver pipeline
@@ -94,7 +94,7 @@ technical documentation, and human-validated engineering work.
 5. Develop the first LLM-assisted engineering module
 6. Return to the next AWS lab
 
-## Project Philosophy
+## 🧭 Project Philosophy
 
 Every project should answer four questions:
 
@@ -103,7 +103,7 @@ Every project should answer four questions:
 3. How is the result tested and validated?
 4. What did I learn while building it?
 
-## Connect
+## 🔗 Connect
 
 - [LinkedIn] https://www.linkedin.com/in/amy-brian-goodell-6b3500120/
 - [YouTube] https://www.youtube.com/@AmySkyeStudios
