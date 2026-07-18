@@ -1,12 +1,14 @@
 # Amy Skye Studios 🦋
 
-**Creative technology, data engineering, AI-assisted development, and technical learning—built and documented in public.**
+**Analytics Engineering | Data Engineering | Data Quality | Cloud & Lakehouse Modernization**
 
-Amy Skye Studios is my independent project and portfolio lab for developing practical data engineering demonstrations, publishing educational content, and exploring the intersection of engineering, automation, artificial intelligence, and creative technology.
+Amy Skye Studios is the independent data-engineering and analytics-engineering portfolio of Amy Goodell.
+
+I build practical, documented projects involving ETL/ELT pipelines, SQL, Python, dbt, Airflow, AWS, Snowflake, Databricks, PySpark, workflow automation, and LLM-assisted engineering.
 
 ## About Amy
 
-I am a Data Engineer with professional experience building and maintaining SQL-based reporting solutions, automated data workflows, data-quality controls, technical documentation, and business-facing analytics.
+I am a Data Engineer and Analytics Engineer with professional experience building and maintaining SQL-based reporting solutions, automated data workflows, data-quality controls, technical documentation, and business-facing analytics.
 
 My current work focuses on expanding that foundation through hands-on projects involving:
 
