@@ -1,4 +1,4 @@
-# Amy Skye Studios 🦋
+# Amy Skye Studios 
 
 **Senior Data Engineering | Analytics Engineering | Data Quality | Cloud, Lakehouse & AI-Assisted Modernization**
 
